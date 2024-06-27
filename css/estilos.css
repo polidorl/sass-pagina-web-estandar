@@ -51,7 +51,7 @@ body {
 .banner {
   min-height: 100vh;
   padding: 80px;
-  background: url(/imgs/bannerprincipal.jpg);
+  background-image: url("/imgs/bannerprincipal.jpg");
   background-size: cover;
   position: relative;
 }
@@ -131,7 +131,7 @@ body {
 .clientes {
   min-height: 100vh;
   padding: 80px;
-  background: url(/imgs/fondotestimonials.jpg);
+  background-image: url("/imgs/fondotestimonials.jpg");
   background-size: cover;
   background-attachment: fixed;
   color: #ffffff;

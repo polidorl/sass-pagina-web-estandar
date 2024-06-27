@@ -1,7 +1,8 @@
 .clientes {
     min-height: $alturaseccion;
     padding: $relleno;
-    background: url(/imgs/fondotestimonials.jpg);
+    // background: url(/imgs/fondotestimonials.jpg);
+    background-image: url('/imgs/fondotestimonials.jpg');
     background-size: cover;
     background-attachment: fixed;
     color:#ffffff;
