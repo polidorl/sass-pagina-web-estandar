@@ -1,0 +1,6 @@
+
+@mixin modoresponsive ($valor){
+    @media(max-width: $valor) {
+        @content;
+    }
+}

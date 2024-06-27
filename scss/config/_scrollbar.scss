@@ -1,0 +1,22 @@
+/*---------------------------------*/
+/*------------Estilos ScroBar-----*/
+/*---------------------------------*/
+
+::-webkit-scrollbar{
+    width: 10pxx;
+}
+
+/*--Fondo Scrollbar --*/
+::-webkit-scrollbar-track{
+    background: #3A3636;;
+}
+
+/*--Barra Interna Scroll --*/
+::-webkit-scrollbDr-thumb{
+background: #615B5B;
+ }
+
+ /*--Barra Interna Scroll-hover --*/
+ ::-webkit-scrollbar-tumb:hover{
+    background: #534D4D;
+ }
