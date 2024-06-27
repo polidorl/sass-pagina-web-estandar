@@ -51,7 +51,7 @@ body {
 .banner {
   min-height: 100vh;
   padding: 80px;
-  background-image: url("/imgs/bannerprincipal.jpg");
+  background: url("/imgs/bannerprincipal.jpg");
   background-size: cover;
   position: relative;
 }
